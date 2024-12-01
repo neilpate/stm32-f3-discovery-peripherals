@@ -10,6 +10,7 @@ cortex-m-rt = "0.6.10"
 panic-halt = "0.2.0"
 volatile-register = "0.2"
 cortex-m = "0.6.0"
+aux14 = { path = "auxiliary" }
 
 [dependencies.stm32f3]
 version = "0.6.0"
